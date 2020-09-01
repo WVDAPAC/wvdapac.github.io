@@ -3,6 +3,8 @@ layout: default
 title: Sales Resources
 nav_order: 2
 ---
+
+![WVD APAC](/images/wvdlogo.jpg "Windows Virtual Desktop")  
 # Sales Enablement & Resources
 
 > DISCLAIMER  

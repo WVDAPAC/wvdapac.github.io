@@ -3,6 +3,8 @@ layout: default
 title: Technical Resources
 nav_order: 3
 ---
+
+![WVD APAC](/images/wvdlogo.jpg "Windows Virtual Desktop")  
 # Technical Content for Consultants & Engineers
 
 > DISCLAIMER  

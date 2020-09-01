@@ -1,7 +1,7 @@
 remote_theme: pmarsceill/just-the-docs
 title: WVD APAC Partner Portal
 description: Your curated catalog of the latest Windows Virtual Desktop resources
-search_enabled: false
+search_enabled: true
 color_scheme: custom
 heading_anchors: true
 gh_edit_link: false

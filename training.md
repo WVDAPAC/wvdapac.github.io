@@ -3,6 +3,8 @@ layout: default
 title: Training, Events, Webinars
 nav_order: 4
 ---
+
+![WVD APAC](/images/wvdlogo.jpg "Windows Virtual Desktop")  
 # Training, Events & Webinars
 
 ## Training Courses
