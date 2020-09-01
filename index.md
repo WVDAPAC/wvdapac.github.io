@@ -1,3 +1,10 @@
+---
+layout: default
+title: Home
+nav_order: 1
+---
+
+![WVD APAC](/images/wvdlogo.jpg "Windows Virtual Desktop")  
 # Welcome to the WVD APAC Partner Portal
 
 ## Introduction
@@ -5,12 +12,10 @@ This site contains a set of guidance and curated content to help Microsoft partn
 
 ## Training & Resources
 Follow the links below to access links the latest guidance, training and resources:  
-[Sales Enablement & Resources](sales.md)  
-[Technical Enablement & Resources](tech.md)  
-
-[Microsoft Partner Programs & Opportunities](partner.md)  
-  
-[Training, Events & Webinars](training.md)  
+- [Sales Enablement & Resources](sales.md)  
+- [Technical Enablement & Resources](tech.md)  
+- [Microsoft Partner Programs & Opportunities](partner.md)  
+- [Training, Events & Webinars](training.md)  
 
 
 

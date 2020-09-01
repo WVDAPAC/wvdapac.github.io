@@ -1,3 +1,8 @@
+---
+layout: default
+title: Training, Events, Webinars
+nav_order: 4
+---
 # Training, Events & Webinars
 
 ## Training Courses

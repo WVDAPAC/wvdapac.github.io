@@ -1,3 +1,8 @@
+---
+layout: default
+title: Technical Resources
+nav_order: 3
+---
 # Technical Content for Consultants & Engineers
 
 > DISCLAIMER  
