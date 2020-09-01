@@ -5,7 +5,7 @@ nav_order: 3
 ---
 
 ![WVD APAC](/images/wvdlogo.jpg "Windows Virtual Desktop")  
-# Technical Content for Consultants & Engineers
+# Technical Enablement & Resources
 
 > DISCLAIMER  
 > The collated set of guidance on this page is here for your convenience. Please note that best efforts are taken

@@ -5,7 +5,7 @@ nav_order: 1
 ---
 
 ![WVD APAC](/images/wvdlogo.jpg "Windows Virtual Desktop")  
-# Welcome to the WVD APAC Partner Portal
+# Welcome to the WVD APAC Partner Resource Portal
 
 ## Introduction
 This site contains a set of guidance and curated content to help Microsoft partners build technical and sales capability quickly with Windows Virtual Desktop. It is regularly updated with the latest guidance, events and more so ensure you check back often or subscribe to changes.
