@@ -18,8 +18,8 @@ Follow the links below to access links the latest guidance, training and resourc
 
 | Title                                | Date / Time (SGT)         | Link                                                     |
 | ------------------------------------ | ------------------------- |--------------------------------------------------------- |
-| **Rackspace: Deploy & Scale WVD on Azure** | 10 September 2020 @ 2pm | [Event Page](https://www.brighttalk.com/webcast/17680/434611) | 
-| **Microsoft Meets Community: WVD**   | 30 September 2020 @ 5:45pm | [Event Page](https://aka.ms/wvdevent2020)                |  
+| Rackspace: Deploy & Scale WVD on Azure | 10 September 2020 @ 2pm | [Event Page](https://www.brighttalk.com/webcast/17680/434611) | 
+| Microsoft Meets Community: WVD   | 30 September 2020 @ 5:45pm | [Event Page](https://aka.ms/wvdevent2020)                |  
 
 Complete list of training, events and webinars [here](training.md)
 

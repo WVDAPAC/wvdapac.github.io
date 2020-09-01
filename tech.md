@@ -51,14 +51,13 @@ More detail about requirements and a sample / reference architecture can be foun
 ## Architecture
 
 ### Reference Architectures
+
 | Title                            |  Content  |  Link                                                    |
 | -------------------------------- | --------- |--------------------------------------------------------- |
-| WVD at Enterprise Scale | Website   | [Client connect networking](https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/
-| Multiple Active Directory Forests | Webpage   | [Client connect networking](https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/
-| Multiple Forests with Azure AD DS | Webpage  | [Client connect networking](https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/
-[](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/wvd/windows-virtual-desktop#architecture)
-[](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/wvd/multi-forest)
-[](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/wvd/multi-forest-azure-managed)
+| WVD at Enterprise Scale | Website   | [Architecture Reference](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/wvd/windows-virtual-desktop#architecture/) |
+| Multiple Active Directory Forests | Webpage   | [Architecture Reference](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/wvd/multi-forest) |
+| Multiple Forests with Azure AD DS | Webpage  | [Architecture Reference](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/wvd/multi-forest-azure-managed) |
+
 
 
 ### Azure Landing Zones

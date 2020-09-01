@@ -15,7 +15,7 @@ Windows Virtual Desktop (WVD) is a service exclusive to Microsoft Azure which al
 
 | Title                            |  Content  |  Link                                                    |
 | -------------------------------- | --------- |--------------------------------------------------------- |
-| **Overview from Inspire 2020**   |  Video (30 mins)    | [Enabling Secure Remote Work](https://myinspire.microsoft.com/sessions/371d3fb4-026c-4d7c-a1db-8d8bac2ee98a?source=sessions) |
+| Overview from Inspire 2020   |  Video (30 mins)    | [Enabling Secure Remote Work](https://myinspire.microsoft.com/sessions/371d3fb4-026c-4d7c-a1db-8d8bac2ee98a?source=sessions) |
 
 
 
@@ -29,9 +29,9 @@ More detailed insight into costings and to see some estimated scenario pricing, 
 
 | Title                            |  Content  |  Link                                                    |
 | -------------------------------- | --------- |--------------------------------------------------------- |
-| **WVD Pricing Overview**         |  Website  | [Enabling Secure Remote Work](https://azure.microsoft.com/en-us/pricing/details/virtual-desktop/) |
-| **Azure Pricing Calculator**     | Web Tool  | [Azure Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculator/?service=virtual-desktop)  |
-| **M365 Licensing**               | Website   | [Enterprise Plans](https://www.microsoft.com/en-nz/microsoft-365/compare-microsoft-365-enterprise-plans)  <br/> [Business Premium Plans](https://www.microsoft.com/en-nz/microsoft-365/business#compareProductsRegion)  |
+| WVD Pricing Overview        |  Website  | [Enabling Secure Remote Work](https://azure.microsoft.com/en-us/pricing/details/virtual-desktop/) |
+| Azure Pricing Calculator     | Web Tool  | [Azure Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculator/?service=virtual-desktop)  |
+| M365 Licensing             | Website   | [Enterprise Plans](https://www.microsoft.com/en-nz/microsoft-365/compare-microsoft-365-enterprise-plans)  <br/> [Business Premium Plans](https://www.microsoft.com/en-nz/microsoft-365/business#compareProductsRegion)  |
 
 
 
@@ -63,8 +63,8 @@ All the benefits of WVD on Azure are available to be accessed either natively as
 
 |        Title          |  Content  |  Link                                                    |
 | --------------------- | --------- |--------------------------------------------------------- |
-| **Solution Brief**   |  PDF     | [Solution Brief](https://www.microsoft.com/azure/partners/resources/windows-virtual-desktop-solution-brief) |
-| **High-Level Presentations**   |  PPT     | [Overview Presentation Deck](https://www.microsoft.com/azure/partners/resources/windows-virtual-desktop-deck)  <br/>  [Level 100 Presentation Deck](https://www.microsoft.com/azure/partners/resources/microsoft-windows-virtual-desktop-level-100-overview)  |
-| **More In-Depth Presentations**   |  PPT     | [Level 200 Presentation Deck](https://www.microsoft.com/azure/partners/resources/windows-virtual-desktop-l200-presentation) <br/> [Level 300 Technical Requirements Deck](https://www.microsoft.com/azure/partners/resources/windows-virtual-desktop-technical-requirements) | 
-| **More Resources** | Website | [Microsoft Partner Hub Resource Catalog](https://www.microsoft.com/azure/partners/resources?filters=migrate-existing-apps,windows-virtual-desktop) |
+| Solution Brief   |  PDF     | [Solution Brief](https://www.microsoft.com/azure/partners/resources/windows-virtual-desktop-solution-brief) |
+| High-Level Presentations   |  PPT     | [Overview Presentation Deck](https://www.microsoft.com/azure/partners/resources/windows-virtual-desktop-deck)  <br/>  [Level 100 Presentation Deck](https://www.microsoft.com/azure/partners/resources/microsoft-windows-virtual-desktop-level-100-overview)  |
+| More In-Depth Presentations   |  PPT     | [Level 200 Presentation Deck](https://www.microsoft.com/azure/partners/resources/windows-virtual-desktop-l200-presentation) <br/> [Level 300 Technical Requirements Deck](https://www.microsoft.com/azure/partners/resources/windows-virtual-desktop-technical-requirements) | 
+| More Resources | Website | [Microsoft Partner Hub Resource Catalog](https://www.microsoft.com/azure/partners/resources?filters=migrate-existing-apps,windows-virtual-desktop) |
 

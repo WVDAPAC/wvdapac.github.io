@@ -4,9 +4,6 @@ description: Your curated catalog of the latest Windows Virtual Desktop resource
 logo: "/images/wvdlogo.jpg"
 search_enabled: false
 color_scheme: custom
-aux_links:
-  "WVD Hompage":
-    - "https://azure.microsoft.com/en-us/services/virtual-desktop/"
 heading_anchors: true
 gh_edit_link: false
 footer_content: "Brought to you by the Microsoft APAC OCP Tech team."
