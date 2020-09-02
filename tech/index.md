@@ -2,6 +2,7 @@
 layout: default
 title: Technical Resources
 nav_order: 3
+has_children: yes
 ---
 
 ![WVD APAC](/images/wvdlogo.jpg "Windows Virtual Desktop")  

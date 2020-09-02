@@ -13,7 +13,7 @@ This site contains a set of guidance and curated content to help Microsoft partn
 ## Training & Resources
 Follow the links below to access links the latest guidance, training and resources:  
 - [Sales Enablement & Resources](sales.md)  
-- [Technical Enablement & Resources](tech.md)  
+- [Technical Enablement & Resources](/tech/index.md)  
 - [Microsoft Partner Programs & Opportunities](partner.md)  
 - [Training, Events & Webinars](training.md)  
 
