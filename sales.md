@@ -23,8 +23,7 @@ Windows Virtual Desktop (WVD) is a service exclusive to Microsoft Azure which al
 | Title                            |  Content  |  Link                                                    |
 | -------------------------------- | --------- |--------------------------------------------------------- |
 | Overview from Inspire 2020   |  Video (30 mins)    | [Enabling Secure Remote Work](https://myinspire.microsoft.com/sessions/371d3fb4-026c-4d7c-a1db-8d8bac2ee98a?source=sessions) |
-
-
+| Partner TRaining: WVD Sales Fundamentals   |  Video (multiple)    | [WVD Sales Fundamentals](https://partner.microsoft.com/en-us/asset/collection/windows-virtual-desktop-sales-and-business-value-fundamentals#/) |
 
 ## Costs
 The cost to the customer for WVD is composed of 3 elements:

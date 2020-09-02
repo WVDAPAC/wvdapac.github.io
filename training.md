@@ -11,14 +11,16 @@ nav_order: 4
 
 | Title                                | Date / Time (SGT)         | Link                                                     |
 | ------------------------------------ | ------------------------- |--------------------------------------------------------- |
-| Microsoft Learn   | On Demand | [WVD Learning Path](https://docs.microsoft.com/en-us/learn/paths/m365-wvd/)                |  
-
+| Microsoft Learn WVD Pathway   | On Demand | [WVD Learning Path](https://docs.microsoft.com/en-us/learn/paths/m365-wvd/)                |  
+| Virtual Instructor Led Training | October 2020 | details TBC |  
 
 ## Upcoming & Recent Webinars
-Sign up for these webinars even if the timing is terrible for APAC. Doing so will allow you to access the recording to watch at a more convenient time.
+**Sign up for these webinars even if the timing is terrible for APAC.**  
+Doing so will allow you to access the recording to watch at a more convenient time.
 
 | Title                                | Date / Time (SGT)         | Link                                                     |
 | ------------------------------------ | ------------------------- |--------------------------------------------------------- |
+| Protect Remote WVD Workers with Azure Security | 10 September 2020 @ 1am | [Event Page](https://info.microsoft.com/ww-landing-azure-webinar-series-protect-remote-workers-with-azure-network-security-solutions.html) |
 | Rackspace: Deploy & Scale WVD on Azure | 10 September 2020 @ 2pm | [Event Page](https://www.brighttalk.com/webcast/17680/434611) | 
 | Microsoft Meets Community: WVD   | 30 September 2020 @ 5:45pm | [Event Page](https://aka.ms/wvdevent2020)                |  
 
