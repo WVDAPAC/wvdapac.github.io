@@ -28,3 +28,4 @@ Your FSLogix profile containers can be stored in a variety of backend systems. S
 | FSLogix Storage on VM | Website   | [Tutorial](https://docs.microsoft.com/en-us/azure/virtual-desktop/create-host-pools-user-profile) |
 | FSLogix Storage on Azure Files | Website   | [Tutorial](https://docs.microsoft.com/en-us/azure/virtual-desktop/create-file-share) |
 | FSLogix Storage on Azure NetApp Files | Website   | [Tutorial](https://docs.microsoft.com/en-us/azure/virtual-desktop/create-fslogix-profile-container) |
+| Benefits of Azure NetApp Files for WVD | Website | [ANF Benefits for WVD](https://docs.microsoft.com/en-us/azure/azure-netapp-files/solutions-windows-virtual-desktop) |
