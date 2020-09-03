@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Image Management
-nav_order: 5
+nav_order: 6
 parent: Technical Resources
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: FSLogix Profiles
-nav_order: 4
+nav_order: 5
 parent: Technical Resources
 ---
 
@@ -14,6 +14,7 @@ Here are some resources to help you configure FSLogix profile containers.
 | Title                            |  Content  |  Link                                                    |
 | -------------------------------- | --------- |--------------------------------------------------------- |
 | Official Documentation | Website   | [Microsoft Docs](https://docs.microsoft.com/en-us/fslogix/overview) |
+| Demo of Setting up FSLogix with Azure Files | Video (18 mins) |[Azure Academy on Youtube](https://www.youtube.com/watch?v=9S5A1IJqfOQ) |
 | Tutorial from Christiaan Brinkhoff | Website | [FSLogix Config with Azure Files](https://christiaanbrinkhoff.com/2020/03/01/learn-here-how-to-configure-azure-files-with-active-directory-ad-authentication-for-fslogix-profile-container-and-msix-app-attach/) |
 | Registry Key Reference | Website | [Profile Continer Registry Reference](https://docs.microsoft.com/en-us/fslogix/profile-container-configuration-reference) |
 | Registry Key Reference | Website | [Cloud Cache Continer Registry Reference](https://docs.microsoft.com/en-us/fslogix/cloud-cache-configuration-reference) |

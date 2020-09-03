@@ -15,7 +15,7 @@ parent: Technical Resources
 | WVD at Enterprise Scale | Website   | [Architecture Reference](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/wvd/windows-virtual-desktop#architecture/) |
 | Multiple Active Directory Forests | Webpage   | [Architecture Reference](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/wvd/multi-forest) |
 | Multiple Forests with Azure AD DS | Webpage  | [Architecture Reference](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/wvd/multi-forest-azure-managed) |
-
+| WVD Resources & Relationships | LinkedIn Article | [WVD Resources & Relationships](https://www.linkedin.com/pulse/wvd-windows-virtual-desktop-resources-relationships-peter-smallbone/?trackingId=UVa5n22cSmeQ5i8aUx9cTw%3D%3D) |
 
 
 ### Azure Landing Zones
